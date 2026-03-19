@@ -1,0 +1,24 @@
+[2026-03-19 14:20:39] Thread 137949853251264 processed d (error(malloc)) in 0.000 sec
+[2026-03-19 14:20:39] Thread 137949836465856 processed file1.txt (success) in 0.000 sec
+[2026-03-19 14:20:39] Thread 137949853251264 processed file3.txt (success) in 0.000 sec
+[2026-03-19 14:20:39] Thread 137949836465856 processed file4.txt (success) in 0.000 sec
+[2026-03-19 14:20:39] Thread 137949853251264 processed file5.txt (success) in 0.000 sec
+[2026-03-19 14:20:39] Thread 137949844858560 processed file2.txt (success) in 0.000 sec
+[2026-03-19 14:20:39] Thread 137949836465856 processed libcaesar.c (success) in 0.000 sec
+[2026-03-19 14:20:39] Thread 137949853251264 processed libcaesar.so (success) in 0.000 sec
+[2026-03-19 14:20:39] Thread 137949836465856 processed secure_copy (success) in 0.000 sec
+[2026-03-19 14:20:39] Thread 137949853251264 processed secure_copy.c (success) in 0.000 sec
+[2026-03-19 14:20:39] Thread 137949836465856 processed test_out (error(malloc)) in 0.000 sec
+[2026-03-19 14:20:39] Thread 137949844858560 processed Makefile (success) in 0.000 sec
+[2026-03-19 14:20:39] All threads finished. Total: 10
+[2026-03-19 14:20:54] Thread 123397235275456 processed /tmp/out/file1.txt (success) in 0.000 sec
+[2026-03-19 14:20:54] Thread 123397235275456 processed /tmp/out/file4.txt (success) in 0.000 sec
+[2026-03-19 14:20:54] Thread 123397235275456 processed /tmp/out/file5.txt (success) in 0.000 sec
+[2026-03-19 14:20:54] Thread 123397235275456 processed /tmp/out/libcaesar.c (success) in 0.000 sec
+[2026-03-19 14:20:54] Thread 123397218490048 processed /tmp/out/file2.txt (success) in 0.000 sec
+[2026-03-19 14:20:54] Thread 123397226882752 processed /tmp/out/file3.txt (success) in 0.000 sec
+[2026-03-19 14:20:54] Thread 123397218490048 processed /tmp/out/Makefile (success) in 0.000 sec
+[2026-03-19 14:20:54] Thread 123397235275456 processed /tmp/out/libcaesar.so (success) in 0.000 sec
+[2026-03-19 14:20:54] Thread 123397218490048 processed /tmp/out/secure_copy (success) in 0.000 sec
+[2026-03-19 14:20:54] Thread 123397226882752 processed /tmp/out/secure_copy.c (success) in 0.000 sec
+[2026-03-19 14:20:54] All threads finished. Total: 10
